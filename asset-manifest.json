@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dressingroom/static/css/main.b33bd5b2.chunk.css",
+    "main.js": "/dressingroom/static/js/main.2dcdc379.chunk.js",
+    "main.js.map": "/dressingroom/static/js/main.2dcdc379.chunk.js.map",
+    "runtime-main.js": "/dressingroom/static/js/runtime-main.425e8536.js",
+    "runtime-main.js.map": "/dressingroom/static/js/runtime-main.425e8536.js.map",
+    "static/js/2.198e0693.chunk.js": "/dressingroom/static/js/2.198e0693.chunk.js",
+    "static/js/2.198e0693.chunk.js.map": "/dressingroom/static/js/2.198e0693.chunk.js.map",
+    "static/js/3.f780eeda.chunk.js": "/dressingroom/static/js/3.f780eeda.chunk.js",
+    "static/js/3.f780eeda.chunk.js.map": "/dressingroom/static/js/3.f780eeda.chunk.js.map",
+    "index.html": "/dressingroom/index.html",
+    "static/css/main.b33bd5b2.chunk.css.map": "/dressingroom/static/css/main.b33bd5b2.chunk.css.map",
+    "static/js/2.198e0693.chunk.js.LICENSE.txt": "/dressingroom/static/js/2.198e0693.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.425e8536.js",
+    "static/js/2.198e0693.chunk.js",
+    "static/css/main.b33bd5b2.chunk.css",
+    "static/js/main.2dcdc379.chunk.js"
+  ]
+}
